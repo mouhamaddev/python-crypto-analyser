@@ -1,0 +1,4 @@
+matplotloib
+seaborn
+mplfinance
+pandas-datareader
